@@ -28,16 +28,21 @@ h2 {
     font-family: 'Cinzel', serif;
     font-size: 40px;
     color: #252424;
+    font-weight: 900;
+    text-decoration: none;
 }
 
 .josefin {
     font-family: 'Josefin Sans', sans-serif;
-    color: red;
+    text-shadow: 1px 1px 0 red;
 }
 
 .audiowide {
     font-family: 'Audiowide', fantasy;
-    color: #5d5dd8;
+    color: blue;
+    text-shadow: 3px 3px 0 white;
+    letter-spacing: 3px;
+    text-decoration: none;
 }
 
 .indie {
@@ -59,7 +64,8 @@ h2 {
 
 #vt323h2 {
     font-family: 'VT323', monospace;
-    font-size: 45px;
+    font-size: 50px;
+    text-decoration: none;
 }
 
 .copy {
